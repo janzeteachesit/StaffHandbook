@@ -13,6 +13,7 @@ ___
   7. [Projects should leverage group work.](handbook/group-work.md)
   8. [Discussions and presentations should be valued components of the project cycle.](handbook/disussions-and-presentations.md)
   9. [Students should network and learn from the STEM community of practice.](handbook/stem-communities.md)
+- [STEM Classes](stem-classes.md) \(2017-2018\)
 - [About](about.md)
   - [Tools](tools/tools.md)
     - [GitBook](tools/gitbook.md)

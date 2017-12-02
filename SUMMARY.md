@@ -14,7 +14,7 @@ ___
   8. [Discussions and presentations should be valued components of the project cycle.](handbook/disussions-and-presentations.md)
   9. [Students should network and learn from the STEM community of practice.](handbook/stem-communities.md)
 
-<-- 
+<!-- 
 Not working in gh_pages or GitBook
 - [STEM Classes](handbook/stem-classes.md) \(2017-2018\)
 -->
